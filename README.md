@@ -5,7 +5,7 @@
 - ⚡ Fun fact: i love cows 🐮
 - 🧠 Interests: software development, cloud engineering, AI, computer systems, full-stack development, and basically anything that sounds cool! 
 
-📫 Check out my [LinkedIn](https://www.linkedin.com/in/karynayen/) and [Personal Website](https://www.karynayen.com/) for more info on me!
+📫 Check out my [LinkedIn](https://www.linkedin.com/in/karynayen/) and [Personal Website](https://www.karynayen.com/) for more info about me!
 
 <!--
 **karynayen/karynayen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
