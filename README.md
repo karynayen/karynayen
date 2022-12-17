@@ -1,6 +1,17 @@
-### Hi there 🐮
+# Hi there, My name is Karyna! 🐮
 
-My name is Karyna! I am an enthusiastic CS student at Northeastern University, with an interest in software development, cloud engineering, computer systems, full-stack development, and basically anything that sounds cool! My expertise lies in utilizing object-oriented design to create various Java applications. I also have experience using Javascript, Typescript, HTML/CSS, C, and Python, along with working with the React.js and Bootstrap libraries. I am excited to further develop my technical skills!
+I am an enthusiastic CS student at Northeastern University interested in
+- software development
+- cloud engineering
+- computer systems
+- full-stack development
+- basically anything that sounds cool! 
+
+Outside of software development I also
+- am a competitive swimmer and a triathlete. 🏊‍♀️🚴‍♀️🏃‍♀️
+- enjoy hiking, skiing, and snowboarding! 🥾
+
+Check out my [LinkedIn](https://www.linkedin.com/in/karynayen/) and [Personal Website](https://www.karynayen.com/) for more info on me!
 
 <!--
 **karynayen/karynayen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
