@@ -1,4 +1,4 @@
-# Hi there, My name is Karyna!👩‍💻
+# Hi there, my name is Karyna!👩‍💻
 
 - 😄 Pronouns: she/her
 - 🎓 Education: CS major at Northeastern University
